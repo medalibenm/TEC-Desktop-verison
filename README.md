@@ -1,25 +1,21 @@
-# Social Media Homepage UI in Flutter
+# Phone Store Website
 
-This Flutter project showcases a basic social media homepage user interface. It includes a profile picture, user information, and a list of posts with interaction buttons.
-
-## Screenshots
-
-![Social Media Homepage UI](https://example.com/social-media-ui-screenshot.png)
+This is a simple website for a phone store created using HTML, CSS, and JavaScript. It showcases various phones available for purchase and provides information about their features and specifications.
 
 ## Features
 
-- Displays a user's profile picture and basic information.
-- Lists posts with images, text, and interaction buttons.
-- Allows users to like posts and view comments.
+- Displays a list of phones available for purchase.
+- Provides detailed information about each phone, including specifications and pricing.
 
 ## Technologies Used
 
-- Flutter
-- Dart
+- HTML
+- CSS
+- JavaScript
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/social-media-ui-flutter.git
+   git clone https://github.com/your_username/phone-store-website.git
